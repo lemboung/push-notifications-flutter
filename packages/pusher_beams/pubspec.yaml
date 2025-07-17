@@ -12,7 +12,8 @@ dependencies:
   flutter:
     sdk: flutter
   pusher_beams_platform_interface: ^1.1.1
-  pusher_beams_web: ^1.1.1
+  pusher_beams_web:
+    path: ../pusher_beams_web
   pusher_beams_android: ^1.1.2
   pusher_beams_ios: ^1.1.1
   uuid: ^4.4.2
