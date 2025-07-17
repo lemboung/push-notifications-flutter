@@ -5,8 +5,8 @@ repository: https://github.com/pusher/push-notifications-flutter
 issue_tracker: https://github.com/pusher/push-notifications-flutter/issues
 
 environment:
-  sdk: ">=2.12.0 <3.0.0"
-  flutter: ">=1.20.0"
+  sdk: ">=3.7.2 <5.0.0"
+  flutter: ">=3.29.0"
 
 dependencies:
   flutter:
@@ -15,7 +15,7 @@ dependencies:
   pusher_beams_web: ^1.1.1
   pusher_beams_android: ^1.1.2
   pusher_beams_ios: ^1.1.1
-  uuid: ^3.0.5
+  uuid: ^4.4.2
 
 dev_dependencies:
   flutter_test:
